@@ -1,0 +1,12 @@
+# linux
+#files:
+#  location: /app/files/
+#  mapping: /flies/
+
+# windows
+files:
+  location: D:/files/
+  mapping: /flies/
+
+server:
+  port: 80

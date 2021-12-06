@@ -5,7 +5,7 @@ ofd文件在线预览:
 
 格式：/ofdViewer/viewer.html?file=1.ofd相对路径
 
-案例：http://localhost/ofdViewer/viewer.html?file=http://localhost/ofd/1.ofd
+案例：http://localhost:9090/ofdViewer/viewer.html?file=http://localhost:9090/ofd/1.ofd
 
 ofd转pdf:
 参考：OfdPdfApplicationTests中的ofdToPdf方法

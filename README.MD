@@ -13,3 +13,9 @@ ofd转pdf:
 pdf转ofd:
 参考：OfdPdfApplicationTests中的PdfToOfd方法
 
+效果图：
+![发票案例](src/test/resources/image.png)
+
+参考链接：
+[OFD文件、pdf文件相互转换、ofd文件在线预览](http://gblfy.blog.csdn.net/article/details/121734886)
+

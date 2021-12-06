@@ -3,7 +3,7 @@ ofd和pdf 2种类型文件相互转换和ofd文件在线预览
 ofd文件在线预览:
 使用方式：
 
-# 格式：/ofdViewer/viewer.html?file=1.ofd相对路径
+格式：/ofdViewer/viewer.html?file=1.ofd相对路径
 
 案例：http://localhost/ofdViewer/viewer.html?file=http://localhost/ofd/1.ofd
 
